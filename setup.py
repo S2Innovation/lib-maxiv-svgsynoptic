@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="lib-svgsynoptic2",
-    version="3.7.0",
+    version="3.8",
     description="Widget for displaying a SVG synoptic.",
     author="Johan Forsberg",
     author_email="johan.forsberg@maxlab.lu.se",
